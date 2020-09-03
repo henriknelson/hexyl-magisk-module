@@ -6,6 +6,9 @@ This Magisk module installs the latest stable version of the hexyl tool to the t
 
 ## Change Log
 
+### v1.1 - 2020-06-11
+* Updated hexyl to v0.8.0
+
 ### v1.0 - 2020-05-28
 * Initial release
 
